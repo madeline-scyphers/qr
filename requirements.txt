@@ -1,0 +1,4 @@
+pillow
+segno
+qrcode-artistic
+click
