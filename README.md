@@ -4,7 +4,7 @@ This is a simple CLI to generate QR codes to URLS from the command line.
 
 ## Installation
 
-To install the CLI, clone the repo and run the following command:
+To install the CLI, clone the repo (optionally create a virtual env with your favorite environment managing tool) and run the following command:
 
 ```bash
 pip install -r requirements.txt
